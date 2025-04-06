@@ -1,4 +1,4 @@
-#Node GraphQL API
+# Node GraphQL API
 
 Description
 This project is a Node.js backend API implementation using GraphQL for querying and mutating data. It is built with a focus on modularity and scalability, ensuring that the API is easy to maintain and extend. The project also implements best practices like using Apollo Server for the GraphQL layer and includes authentication, authorization, and database interactions.
