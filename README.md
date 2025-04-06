@@ -60,9 +60,9 @@ mutation {
 ```
 
 Once you receive the token, include it in the Authorization header for protected queries:
-Authorization: Bearer your_token_here
+* Authorization: Bearer your_token_here
 
-## Example Queries
+## Example Queries
 
 - Get all users
 
